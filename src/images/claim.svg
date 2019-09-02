@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="12px" height="12px" viewBox="0 0 12 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.1 (57501) - http://www.bohemiancoding.com/sketch -->
+    <title>Shape</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="待认领-按钮样式" transform="translate(-1230.000000, -136.000000)" fill="#1565C0" fill-rule="nonzero">
+            <g id="载入" transform="translate(1228.000000, 134.000000)">
+                <path d="M12.8,8 L12.8,12.4 C12.8,12.84 12.44,13.2 12,13.2 L3.96,13.2 C3.52,13.2 3.16,12.84 3.16,12.4 L3.2,4.4 C3.2,3.96 3.56,3.6 4,3.6 L8.4,3.6 L8.4,2.8 L4,2.8 C3.12,2.8 2.4,3.68 2.4,4.56 L2.4,12.44 C2.4,13.28 3.12,14 3.96,14 L11.84,14 C12.72,14 13.6,13.28 13.6,12.4 L13.6,8 L12.8,8 Z M6.8,7.2 C6.8,6.96 6.64,6.8 6.4,6.8 C6.16,6.8 6,6.96 6,7.2 L6,10 C6,10.24 6.16,10.4 6.4,10.4 L9.2,10.4 C9.44,10.4 9.6,10.24 9.6,10 C9.6,9.76 9.44,9.6 9.2,9.6 L7.4,9.6 L13.32,3.68 C13.48,3.52 13.48,3.28 13.32,3.12 C13.16,2.96 12.92,2.96 12.76,3.12 L6.8,9.08 L6.8,7.2 Z" id="Shape"></path>
+            </g>
+        </g>
+    </g>
+</svg>
